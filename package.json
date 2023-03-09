@@ -1,0 +1,22 @@
+{
+  "name": "@snerowski/team-profile-generator",
+  "version": "1.0.0",
+  "description": "Take in information on a software engineering team and then generate an html webpage that displays summaries for each person!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snerowski/team-profile-generator.git"
+  },
+  "author": "Seve Nerowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snerowski/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/snerowski/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
